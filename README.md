@@ -27,6 +27,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Taylor Alison Swift
 - HONNE
 - Queen
+- Michael Jackson
 - The Chainsmokers
 - ELLEGARDEN
 - Kenshi Yonezu
