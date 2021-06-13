@@ -28,3 +28,10 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - HONNE
 - Queen
 - Frank Sinatra
+- KOTOKO
+- Michael Jackson
+- The Chainsmokers
+- ELLEGARDEN
+- Kenshi Yonezu
+- SMAP
+- ONE OK ROCK
