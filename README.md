@@ -24,3 +24,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Netflix
 - Youtube
 - Kindle
+- Tinder
+- memo
+- Spotify
+- With
+- Chrome
+- Paperpile
