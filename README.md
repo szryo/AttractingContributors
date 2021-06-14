@@ -13,3 +13,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Hobby
 Undertale</br>
 New Super Mario Bros.</br>
+Minecraft</br>
