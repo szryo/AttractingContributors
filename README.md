@@ -11,5 +11,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-Undertale</br>
+
 baba is you</br>
+Undertale</br>
+New Super Mario Bros.</br>
+Minecraft</br>
+Dead By Daylight</br>
